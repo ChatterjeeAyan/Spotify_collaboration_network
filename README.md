@@ -11,4 +11,4 @@ Collaboration networks have been widely studied in different social scenarios an
 Collaboration, Network, Spotify, Music, Science, Social Science, Assortative, Temporal patterns
 
 # Details
-Ayan-Chatterjee-Final-Paper.pdf contains detailed description and results of this project 
+Ayan-Chatterjee-Final-Paper.pdf contains the detailed description and the results of this project 
